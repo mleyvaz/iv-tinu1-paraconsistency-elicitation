@@ -1,0 +1,82 @@
+{
+  "claim": "This sentence is false.",
+  "negation": "This sentence is not false.",
+  "T": [
+    0.13,
+    0.13,
+    0.13,
+    0.14,
+    0.13
+  ],
+  "F": [
+    0.88,
+    0.88,
+    0.89,
+    0.9,
+    0.88
+  ],
+  "I": [
+    0.15,
+    0.16,
+    0.15,
+    0.14,
+    0.15
+  ],
+  "U": [
+    {
+      "choice": "none",
+      "probs": {
+        "ambiguity": 0.12,
+        "aleatory": 0,
+        "vagueness": 0,
+        "epistemic": 0.05,
+        "measurement": 0.01,
+        "none": 0.82
+      }
+    },
+    {
+      "choice": "none",
+      "probs": {
+        "measurement": 0.01,
+        "vagueness": 0,
+        "none": 0.83,
+        "epistemic": 0.04,
+        "aleatory": 0,
+        "ambiguity": 0.12
+      }
+    },
+    {
+      "choice": "none",
+      "probs": {
+        "ambiguity": 0.14,
+        "none": 0.81,
+        "aleatory": 0,
+        "epistemic": 0.04,
+        "measurement": 0.01,
+        "vagueness": 0
+      }
+    },
+    {
+      "choice": "none",
+      "probs": {
+        "ambiguity": 0.16,
+        "aleatory": 0,
+        "measurement": 0,
+        "epistemic": 0.04,
+        "vagueness": 0,
+        "none": 0.8
+      }
+    },
+    {
+      "choice": "none",
+      "probs": {
+        "measurement": 0.01,
+        "epistemic": 0.03,
+        "vagueness": 0,
+        "ambiguity": 0.12,
+        "none": 0.84,
+        "aleatory": 0
+      }
+    }
+  ]
+}

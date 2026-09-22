@@ -3,6 +3,7 @@
 // (and the U choice probe) 5 times each and compare.
 
 import { experimental_evaluate as evaluate } from 'ai';
+import fs from 'node:fs/promises';
 
 const claim = 'This sentence is false.';
 const negation = 'This sentence is not false.';
@@ -72,6 +73,9 @@ async function main() {
   console.log('F identical across 5 runs?', allSame(fRuns));
   console.log('I identical across 5 runs?', allSame(iRuns));
   console.log('U choice identical across 5 runs?', allSame(uRuns.map(r => r.choice)));
+
+  await fs.writeFile('check_jev_determinism_results.json', JSON.stringify({ claim, negation, T: tRuns, F: fRuns, I: iRuns, U: uRuns }, null, 2), 'utf-8');
+  console.log('\nSaved raw results to check_jev_determinism_results.json');
 }
 
 main();
