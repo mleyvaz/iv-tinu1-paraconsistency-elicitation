@@ -1,0 +1,7202 @@
+[
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 7.95e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 7.95e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 4,
+    "raw": "No",
+    "cost": 8.1e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 7.95e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 7.95e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 5,
+    "raw": "No",
+    "cost": 8.1e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 1,
+    "raw": "No",
+    "cost": 8.1e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 2,
+    "raw": "No",
+    "cost": 8.1e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 7,
+    "raw": "No",
+    "cost": 8.1e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 7.95e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 1.215e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 1.215e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 6,
+    "raw": "No",
+    "cost": 8.1e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 7.95e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 1.215e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 0,
+    "raw": "No",
+    "cost": 8.1e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 7.95e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 3,
+    "raw": "No",
+    "cost": 8.1e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 1.215e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 1.215e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 1.215e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 1.035e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 1.035e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 1.035e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 1.035e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 1.215e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 1.035e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 1.035e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 7.95e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 2,
+    "raw": "NONE",
+    "cost": 2.745e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 0,
+    "raw": "NONE",
+    "cost": 2.745e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 1.035e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 7,
+    "raw": "NONE",
+    "cost": 2.745e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 6,
+    "raw": "NONE",
+    "cost": 2.745e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 4,
+    "raw": "NONE",
+    "cost": 2.745e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 1.215e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 1.035e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 1,
+    "raw": "NONE",
+    "cost": 2.745e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 1.618e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 3,
+    "raw": "NONE",
+    "cost": 2.745e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 1.618e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 1.618e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 1.618e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 1.618e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.65e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_true",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 5,
+    "raw": "NONE",
+    "cost": 2.745e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 2.546e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.65e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 2.546e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.65e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 2.546e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 2.546e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 2.546e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 1.38978e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 2.546e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 1.38978e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 2.546e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 2.098e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 1.38978e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.41552e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 4,
+    "raw": "No",
+    "cost": 2.098e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.41552e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 2.098e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.41552e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 6,
+    "raw": "No",
+    "cost": 2.098e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 2,
+    "raw": "No",
+    "cost": 2.098e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 4,
+    "raw": "NONE",
+    "cost": 5.963e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.41552e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 0,
+    "raw": "NONE",
+    "cost": 5.963e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 5,
+    "raw": "NONE",
+    "cost": 5.963e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.41552e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 1,
+    "raw": "NONE",
+    "cost": 5.963e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 6,
+    "raw": "NONE",
+    "cost": 5.963e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 2.13624e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 1,
+    "raw": "No",
+    "cost": 7.5e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 7,
+    "raw": "NONE",
+    "cost": 5.963e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 1.77588e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.77588e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 0,
+    "raw": "No",
+    "cost": 7.5e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 6,
+    "raw": "No",
+    "cost": 7.5e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 4,
+    "raw": "No",
+    "cost": 7.5e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 2,
+    "raw": "No",
+    "cost": 7.5e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 7.65e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 7.65e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 7.65e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 3,
+    "raw": "No",
+    "cost": 7.5e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.77588e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 7,
+    "raw": "No",
+    "cost": 7.5e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 7.65e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 7.65e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.17e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 3,
+    "raw": "NONE",
+    "cost": 5.963e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_true",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 2,
+    "raw": "NONE",
+    "cost": 4.91607e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.17e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 7.65e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 5,
+    "raw": "No",
+    "cost": 7.5e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.17e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.17e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 0,
+    "raw": "No",
+    "cost": 9.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 7.65e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 7.65e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.17e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 2,
+    "raw": "No",
+    "cost": 9.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.17e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 3,
+    "raw": "No",
+    "cost": 9.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 6,
+    "raw": "No",
+    "cost": 9.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 1,
+    "raw": "No",
+    "cost": 9.9e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 1,
+    "raw": "NONE",
+    "cost": 2.7e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.17e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 2,
+    "raw": "NONE",
+    "cost": 2.7e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 4,
+    "raw": "No.",
+    "cost": 1.05e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 4,
+    "raw": "NONE",
+    "cost": 2.7e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 5,
+    "raw": "NONE",
+    "cost": 2.7e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 7,
+    "raw": "NONE",
+    "cost": 2.7e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.17e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 7,
+    "raw": "No",
+    "cost": 9.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 5,
+    "raw": "No",
+    "cost": 9.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.522e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.522e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.522e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.522e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.522e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 3,
+    "raw": "NONE",
+    "cost": 2.7e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.522e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 6,
+    "raw": "NONE",
+    "cost": 2.7e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 1.554e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_false",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 0,
+    "raw": "NONE",
+    "cost": 2.7e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 1.554e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 1.554e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 1.554e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 1.554e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 0,
+    "raw": "No",
+    "cost": 2.45e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 4,
+    "raw": "No",
+    "cost": 2.45e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 1.554e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 2,
+    "raw": "No",
+    "cost": 2.45e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.31256e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.31256e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 3,
+    "raw": "No",
+    "cost": 2.002e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 6,
+    "raw": "No",
+    "cost": 2.45e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 1.3383e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 0,
+    "raw": "No",
+    "cost": 2.002e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 7,
+    "raw": "No",
+    "cost": 2.45e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 2,
+    "raw": "No",
+    "cost": 2.002e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 6,
+    "raw": "No",
+    "cost": 2.002e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 1.3383e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 1,
+    "raw": "No",
+    "cost": 2.05902e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 3,
+    "raw": "NONE",
+    "cost": 5.867e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 0,
+    "raw": "EPISTEMIC",
+    "cost": 6.045e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.69866e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 5,
+    "raw": "No",
+    "cost": 2.05902e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 1,
+    "raw": "EPISTEMIC",
+    "cost": 6.045e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 4,
+    "raw": "EPISTEMIC",
+    "cost": 6.045e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 2,
+    "raw": "EPISTEMIC",
+    "cost": 6.045e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 5,
+    "raw": "EPISTEMIC",
+    "cost": 6.045e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 6,
+    "raw": "EPISTEMIC",
+    "cost": 6.045e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 6.75e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 7,
+    "raw": "EPISTEMIC",
+    "cost": 6.045e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 6.75e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.69866e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 6.75e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 6.75e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 6.75e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 6.75e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 6.75e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 6.75e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.69866e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 1.185e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 1.185e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 3,
+    "raw": "No",
+    "cost": 2.05902e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unambig_false",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.69866e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 1.185e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 9.15e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 1.185e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 1.185e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 1.185e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 1.185e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 1.185e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 9.15e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 9.15e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 9.15e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 1,
+    "raw": "AMBIGUITY",
+    "cost": 2.805e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 2,
+    "raw": "AMBIGUITY",
+    "cost": 2.805e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 0,
+    "raw": "AMBIGUITY",
+    "cost": 2.805e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 4,
+    "raw": "AMBIGUITY",
+    "cost": 2.805e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 9.15e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 9.15e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 9.15e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.362e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.362e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.362e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 7,
+    "raw": "AMBIGUITY",
+    "cost": 2.805e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 9.15e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.362e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 3,
+    "raw": "AMBIGUITY",
+    "cost": 2.805e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 6,
+    "raw": "AMBIGUITY",
+    "cost": 2.805e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.362e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "paradox",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 5,
+    "raw": "AMBIGUITY",
+    "cost": 2.805e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 1.394e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 1.394e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 1.394e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 1.394e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 1.394e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 5,
+    "raw": "No.",
+    "cost": 1.451e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 1.394e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 2.482e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 2.482e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 2.482e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 1.2096e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 2.482e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 2,
+    "raw": "No",
+    "cost": 2.482e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 1.18386e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 2.482e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.842e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 1.842e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.842e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.18386e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.842e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.842e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 2.482e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 0,
+    "raw": "AMBIGUITY",
+    "cost": 5.885e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 1.842e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 1,
+    "raw": "AMBIGUENCY",
+    "cost": 5.885e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 0,
+    "raw": "No",
+    "cost": 8.85e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 2,
+    "raw": "AMBIGUITY",
+    "cost": 5.885e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 1,
+    "raw": "No",
+    "cost": 8.85e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 2,
+    "raw": "No",
+    "cost": 8.85e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 7,
+    "raw": "AMBIGUITY",
+    "cost": 5.885e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 3,
+    "raw": "AMBIGUITY",
+    "cost": 5.885e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 3,
+    "raw": "No",
+    "cost": 2.08476e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.56996e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 4,
+    "raw": "AMBIGUITY",
+    "cost": 4.91589e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 2,
+    "raw": "No",
+    "cost": 9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 3,
+    "raw": "No",
+    "cost": 8.85e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 6,
+    "raw": "No",
+    "cost": 8.85e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 4,
+    "raw": "No",
+    "cost": 8.85e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.56996e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 5,
+    "raw": "No",
+    "cost": 8.85e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 4,
+    "raw": "No",
+    "cost": 9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 7,
+    "raw": "No",
+    "cost": 8.85e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 1,
+    "raw": "No",
+    "cost": 9e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 5,
+    "raw": "AMBIGUITY",
+    "cost": 4.91589e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 3,
+    "raw": "No",
+    "cost": 9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 6,
+    "raw": "No",
+    "cost": 9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 7,
+    "raw": "No",
+    "cost": 9e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 6,
+    "raw": "AMBIGUITY",
+    "cost": 4.91589e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 0,
+    "raw": "No",
+    "cost": 9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.305e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.305e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.305e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.305e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 1.125e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 1.125e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 1.125e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.305e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.305e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 5,
+    "raw": "No",
+    "cost": 9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 1.125e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 1.125e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 1.125e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 0,
+    "raw": "ALEATORY",
+    "cost": 2.895e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 1,
+    "raw": "ALEATORY",
+    "cost": 2.895e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 1.125e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.305e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.305e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 5,
+    "raw": "ALEATORY",
+    "cost": 2.895e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 1.125e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.81e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 7,
+    "raw": "ALEATORY",
+    "cost": 2.895e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.81e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.81e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.81e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 2,
+    "raw": "ALEATORY",
+    "cost": 2.895e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 3,
+    "raw": "ALEATORY",
+    "cost": 2.895e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.54422e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.81e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 6,
+    "raw": "ALEATORY",
+    "cost": 2.895e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.842e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "aleatory",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 4,
+    "raw": "ALEATORY",
+    "cost": 2.895e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.842e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "paradox",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 1.394e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.842e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.842e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.54422e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.56996e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.54422e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 6,
+    "raw": "No",
+    "cost": 2.738e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.56996e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.56996e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 7,
+    "raw": "No",
+    "cost": 2.738e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 4,
+    "raw": "No",
+    "cost": 2.738e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 1,
+    "raw": "No",
+    "cost": 2.29e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 1,
+    "raw": "No",
+    "cost": 2.738e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.842e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 4,
+    "raw": "No",
+    "cost": 2.29e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 3,
+    "raw": "No",
+    "cost": 2.29e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 7,
+    "raw": "No",
+    "cost": 2.29e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 1,
+    "raw": "ALEATORY",
+    "cost": 6.244e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 0,
+    "raw": "No",
+    "cost": 2.29e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 0,
+    "raw": "ALEATORY",
+    "cost": 6.244e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 6,
+    "raw": "No",
+    "cost": 2.29e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 2,
+    "raw": "ALEATORY",
+    "cost": 6.244e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 5,
+    "raw": "ALEATORY",
+    "cost": 6.244e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 3,
+    "raw": "No",
+    "cost": 2.29068e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 0,
+    "raw": "No",
+    "cost": 2.29068e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 5,
+    "raw": "No",
+    "cost": 2.29068e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 6,
+    "raw": "ALEATORY",
+    "cost": 6.244e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 0,
+    "raw": "No",
+    "cost": 8.1e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 2,
+    "raw": "No",
+    "cost": 2.29068e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.93032e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.93032e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 3,
+    "raw": "No",
+    "cost": 8.1e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 5,
+    "raw": "No",
+    "cost": 8.1e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 4,
+    "raw": "No",
+    "cost": 8.1e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 7,
+    "raw": "No",
+    "cost": 8.1e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 6,
+    "raw": "No",
+    "cost": 8.1e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 0,
+    "raw": "No",
+    "cost": 8.4e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 3,
+    "raw": "ALEATORY",
+    "cost": 5.17338e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 2,
+    "raw": "No",
+    "cost": 8.1e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 1,
+    "raw": "No",
+    "cost": 8.4e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 3,
+    "raw": "No",
+    "cost": 8.4e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 4,
+    "raw": "ALEATORY",
+    "cost": 5.17338e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 1,
+    "raw": "No",
+    "cost": 8.1e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 5,
+    "raw": "No",
+    "cost": 8.4e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 2,
+    "raw": "No",
+    "cost": 8.4e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 6,
+    "raw": "No",
+    "cost": 8.4e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 4,
+    "raw": "No",
+    "cost": 8.4e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.245e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.245e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.245e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.245e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.245e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.245e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 7,
+    "raw": "No",
+    "cost": 8.4e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "aleatory",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 7,
+    "raw": "ALEATORY",
+    "cost": 5.17338e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.05e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.05e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.245e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.05e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.05e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.05e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.05e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.245e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 4,
+    "raw": "EPISTEMIC",
+    "cost": 3e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 0,
+    "raw": "EPISTEMIC",
+    "cost": 3e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.65e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 7,
+    "raw": "EPISTEMIC",
+    "cost": 3e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.65e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 1,
+    "raw": "EPISTEMIC",
+    "cost": 3e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.05e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 6,
+    "raw": "EPISTEMIC",
+    "cost": 3e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 6,
+    "raw": "No.",
+    "cost": 1.739e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 5,
+    "raw": "No.",
+    "cost": 1.739e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 5,
+    "raw": "EPISTEMIC",
+    "cost": 3e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 2,
+    "raw": "EPISTEMIC",
+    "cost": 3e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 3,
+    "raw": "EPISTEMIC",
+    "cost": 3e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.05e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.41552e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.41552e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.714e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 0,
+    "raw": "No",
+    "cost": 2.61e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.714e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 1.714e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 1,
+    "raw": "No",
+    "cost": 2.61e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.714e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 3,
+    "raw": "No",
+    "cost": 2.61e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.467e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 4,
+    "raw": "No",
+    "cost": 2.61e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 1,
+    "raw": "No",
+    "cost": 2.13e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 2,
+    "raw": "No",
+    "cost": 2.13e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 3,
+    "raw": "No",
+    "cost": 2.13e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.714e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.714e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 5,
+    "raw": "No",
+    "cost": 2.13e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 0,
+    "raw": "EPISTEMIC",
+    "cost": 6.173e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 7,
+    "raw": "No",
+    "cost": 2.13e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.467e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 1,
+    "raw": "EPISTEMIC",
+    "cost": 6.173e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 5,
+    "raw": "No",
+    "cost": 2.18772e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 6,
+    "raw": "No",
+    "cost": 2.18772e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 7,
+    "raw": "EPISTEMIC",
+    "cost": 6.173e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.80162e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 7,
+    "raw": "No",
+    "cost": 2.18772e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.80162e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.80162e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 3,
+    "raw": "EPISTEMIC",
+    "cost": 6.173e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 2,
+    "raw": "EPISTEMIC",
+    "cost": 5.14755e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 2,
+    "raw": "No",
+    "cost": 2.61e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.41552e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 4,
+    "raw": "EPISTEMIC",
+    "cost": 5.14755e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 6,
+    "raw": "EPISTEMIC",
+    "cost": 5.14755e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 5,
+    "raw": "EPISTEMIC",
+    "cost": 5.14755e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 5,
+    "raw": "No",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 2,
+    "raw": "No",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 6,
+    "raw": "No",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 7,
+    "raw": "No",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 1,
+    "raw": "No",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 1.17e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 0,
+    "raw": "No",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 3,
+    "raw": "No",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 1.17e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 4,
+    "raw": "No",
+    "cost": 6.9e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 9.3e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 9.3e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 1.17e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 1.17e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 1.17e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 1.17e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 9.3e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 9.3e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 1.17e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 1.17e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 9.3e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "epistemic_missing",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 0,
+    "raw": "No.",
+    "cost": 1.739e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 9.3e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 9.3e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 2,
+    "raw": "VAGUENESS",
+    "cost": 2.88e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 4,
+    "raw": "VAGUENESS",
+    "cost": 2.88e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 3,
+    "raw": "VAGUENESS",
+    "cost": 2.88e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 5,
+    "raw": "VAGUENESS",
+    "cost": 2.88e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 0,
+    "raw": "VAGUENESS",
+    "cost": 2.88e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 1.394e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 1.394e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 1.394e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 1.394e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.394e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.394e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 9.3e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.394e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 1,
+    "raw": "VAGUENESS",
+    "cost": 2.88e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 7,
+    "raw": "VAGUENESS",
+    "cost": 2.88e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.394e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.394e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.394e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.394e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 2.45e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 1.394e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 2.45e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 2.45e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "ambiguous_wording",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 6,
+    "raw": "VAGUENESS",
+    "cost": 2.88e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 1.2096e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.2096e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 1.874e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 1.874e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 1.874e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 1.874e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 1.2096e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 1.2096e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 2.05902e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 1.874e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 2.45e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 1.874e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 1.874e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 2.05902e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 1,
+    "raw": "VAGUENESS",
+    "cost": 6.006e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 2,
+    "raw": "VAGUENESS",
+    "cost": 6.006e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 2.05902e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 2.05902e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 7,
+    "raw": "VAGUENESS",
+    "cost": 6.006e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 0,
+    "raw": "No",
+    "cost": 8.25e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 6,
+    "raw": "VAGUENESS",
+    "cost": 6.006e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 4,
+    "raw": "VAGUENESS",
+    "cost": 6.006e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 1,
+    "raw": "No",
+    "cost": 8.25e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 2,
+    "raw": "No",
+    "cost": 8.25e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 7,
+    "raw": "No",
+    "cost": 8.25e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 3,
+    "raw": "No",
+    "cost": 8.25e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 0,
+    "raw": "VAGUENESS",
+    "cost": 5.0445e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 0,
+    "raw": "No",
+    "cost": 8.4e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 1,
+    "raw": "No",
+    "cost": 8.4e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 1.5957e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 3,
+    "raw": "VAGUENESS",
+    "cost": 5.0445e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 4,
+    "raw": "No",
+    "cost": 8.25e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 5,
+    "raw": "No",
+    "cost": 8.25e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 5,
+    "raw": "No",
+    "cost": 8.4e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 7,
+    "raw": "No",
+    "cost": 8.4e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "ambiguous_wording",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 5,
+    "raw": "VAGUENESS#",
+    "cost": 5.25024e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 4,
+    "raw": "No",
+    "cost": 8.4e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 6,
+    "raw": "No",
+    "cost": 8.25e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.245e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 2,
+    "raw": "No",
+    "cost": 8.4e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 3,
+    "raw": "No",
+    "cost": 8.4e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.245e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.245e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.245e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.245e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 1.245e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 1.245e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 8.4e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 2,
+    "raw": "No.",
+    "cost": 1.125e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 0,
+    "raw": "No.",
+    "cost": 1.125e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 5,
+    "raw": "No.",
+    "cost": 1.125e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 4,
+    "raw": "No.",
+    "cost": 1.125e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.065e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 1.245e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 3,
+    "raw": "No.",
+    "cost": 1.125e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 7,
+    "raw": "No.",
+    "cost": 1.125e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.065e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 0,
+    "raw": "VAGUENESS",
+    "cost": 3.015e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 5,
+    "raw": "VAGUENESS",
+    "cost": 3.015e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 3,
+    "raw": "VAGUENESS",
+    "cost": 3.015e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 1.682e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.682e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 2,
+    "raw": "VAGUENESS",
+    "cost": 3.015e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 7,
+    "raw": "VAGUENESS",
+    "cost": 3.015e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 6,
+    "raw": "VAGUENESS",
+    "cost": 3.015e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 1,
+    "raw": "VAGUENESS",
+    "cost": 3.015e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.44126e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.714e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "vague_concept",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 4,
+    "raw": "VAGUENESS",
+    "cost": 3.015e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.682e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.714e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.44126e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.714e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.714e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.44126e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 2,
+    "raw": "No",
+    "cost": 2.61e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.467e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.44126e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 3,
+    "raw": "No",
+    "cost": 2.61e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 0,
+    "raw": "No",
+    "cost": 2.162e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 2.61e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 2,
+    "raw": "No",
+    "cost": 2.162e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 1,
+    "raw": "No",
+    "cost": 2.162e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.467e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 5,
+    "raw": "No",
+    "cost": 2.162e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 6,
+    "raw": "No",
+    "cost": 2.162e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 4,
+    "raw": "No",
+    "cost": 2.18772e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 6,
+    "raw": "No",
+    "cost": 2.18772e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 5,
+    "raw": "No",
+    "cost": 2.18772e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 0,
+    "raw": "No",
+    "cost": 2.18772e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.82736e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 1,
+    "raw": "VAGUENESS",
+    "cost": 6.294e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.82736e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 2,
+    "raw": "VAGUENESS",
+    "cost": 6.294e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 8.55e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 3,
+    "raw": "VAGUENESS",
+    "cost": 5.27616e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.467e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.82736e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 0,
+    "raw": "VAGUENESS",
+    "cost": 5.27616e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 8.55e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 5,
+    "raw": "VAGUENESS",
+    "cost": 6.294e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 8.55e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 4,
+    "raw": "VAGUENESS",
+    "cost": 5.27616e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 2.61e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 8.55e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 8.55e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 0,
+    "raw": "No",
+    "cost": 8.7e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 8.55e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 6,
+    "raw": "VAGUENESS",
+    "cost": 5.27616e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 6,
+    "raw": "No",
+    "cost": 8.7e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 3,
+    "raw": "No",
+    "cost": 8.7e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 4,
+    "raw": "No",
+    "cost": 8.7e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 8.55e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 8.55e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 5,
+    "raw": "No",
+    "cost": 8.7e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 2,
+    "raw": "No",
+    "cost": 8.7e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 7,
+    "raw": "VAGUENESS |",
+    "cost": 5.4819e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 7,
+    "raw": "No",
+    "cost": 8.7e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 1,
+    "raw": "No",
+    "cost": 8.7e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 1.275e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 1.275e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 1.275e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 1.275e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 1.275e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 1.095e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 1.095e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 1.095e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.682e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 1.095e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 1.275e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 1.095e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 1.275e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 0,
+    "raw": "EPISTEMIC",
+    "cost": 3.045e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 1.095e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 3,
+    "raw": "EPISTEMIC",
+    "cost": 3.045e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.095e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "vague_concept",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.714e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 1.275e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 1.095e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 2,
+    "raw": "AMBIGUITY",
+    "cost": 2.985e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 1,
+    "raw": "AMBIGUITY",
+    "cost": 2.985e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 6,
+    "raw": "EPISTEMIC",
+    "cost": 3.045e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 7,
+    "raw": "AMBIGUITY",
+    "cost": 2.985e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.746e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.746e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.746e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.746e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.746e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.778e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 1.746e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 4,
+    "raw": "AMBIGUITY",
+    "cost": 2.985e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.778e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.778e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.778e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.778e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.778e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 0,
+    "raw": "No",
+    "cost": 2.674e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.49274e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 6,
+    "raw": "No",
+    "cost": 2.674e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 1,
+    "raw": "No",
+    "cost": 2.226e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 1,
+    "raw": "No",
+    "cost": 2.2392e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 2,
+    "raw": "No",
+    "cost": 2.226e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 0,
+    "raw": "No",
+    "cost": 2.226e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 3,
+    "raw": "No",
+    "cost": 2.226e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 5,
+    "raw": "AMBIGUITY",
+    "cost": 2.985e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 7,
+    "raw": "No",
+    "cost": 2.674e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.51848e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 4,
+    "raw": "No",
+    "cost": 2.226e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 5,
+    "raw": "No",
+    "cost": 2.226e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 5,
+    "raw": "No",
+    "cost": 2.2392e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 2,
+    "raw": "VAGUENESS",
+    "cost": 6.358e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 6,
+    "raw": "No",
+    "cost": 2.226e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 0,
+    "raw": "VAGUENESS",
+    "cost": 6.358e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 4,
+    "raw": "No",
+    "cost": 2.2392e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 3,
+    "raw": "VAGUENESS",
+    "cost": 6.358e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 4,
+    "raw": "VAGUENESS",
+    "cost": 6.358e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 6,
+    "raw": "VAGUENESS",
+    "cost": 6.358e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 5,
+    "raw": "VAGUENESS",
+    "cost": 6.358e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.51848e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.49274e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 2,
+    "raw": "No",
+    "cost": 9.15e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 1,
+    "raw": "No",
+    "cost": 9.15e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 7,
+    "raw": "VAGUENESS",
+    "cost": 6.358e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 4,
+    "raw": "No",
+    "cost": 9.15e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 2,
+    "raw": "No",
+    "cost": 2.2392e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 5,
+    "raw": "No",
+    "cost": 9.15e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 0,
+    "raw": "No",
+    "cost": 9.15e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 0,
+    "raw": "No",
+    "cost": 9.3e-06
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 1,
+    "raw": "VAGUENESS#",
+    "cost": 5.53338e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.87884e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 7,
+    "raw": "No",
+    "cost": 9.15e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 6,
+    "raw": "No",
+    "cost": 9.15e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 4,
+    "raw": "No",
+    "cost": 9.3e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "unmeasurable_aesthetic",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 3,
+    "raw": "No",
+    "cost": 2.2392e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 5,
+    "raw": "No",
+    "cost": 9.3e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 1,
+    "raw": "No",
+    "cost": 9.3e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 1.29e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 1.29e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 1.29e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 1.29e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 3,
+    "raw": "No",
+    "cost": 9.15e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 2,
+    "raw": "No",
+    "cost": 9.3e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 1.29e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 7,
+    "raw": "No",
+    "cost": 9.3e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 6,
+    "raw": "No",
+    "cost": 9.3e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.155e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 3,
+    "raw": "No",
+    "cost": 9.3e-06
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.155e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.155e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.155e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.155e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 1.29e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 1.29e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.155e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 1.29e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 4,
+    "raw": "AMBIGUITY",
+    "cost": 3.045e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.155e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 2,
+    "raw": "AMBIGUITY",
+    "cost": 3.045e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.155e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 0,
+    "raw": "AMBIGUITY",
+    "cost": 3.045e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 6,
+    "raw": "AMBIGUITY",
+    "cost": 3.045e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.874e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.874e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 1,
+    "raw": "AMBIGUITY",
+    "cost": 3.045e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 3,
+    "raw": "AMBIGUITY",
+    "cost": 3.045e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.874e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.906e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.5957e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.906e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.906e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.906e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.874e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 7,
+    "raw": "AMBIGUITY",
+    "cost": 3.045e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.5957e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.5957e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 0,
+    "raw": "No",
+    "cost": 2.706e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 1,
+    "raw": "No",
+    "cost": 2.706e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order2_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 5,
+    "raw": "AMBIGUITY",
+    "cost": 3.045e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 6,
+    "raw": "No",
+    "cost": 2.706e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.62144e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 2.354e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.62144e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 7,
+    "raw": "No",
+    "cost": 2.706e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 2,
+    "raw": "No",
+    "cost": 2.354e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 4,
+    "raw": "No",
+    "cost": 2.354e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.874e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 2.354e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.62144e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 3,
+    "raw": "No",
+    "cost": 2.706e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 2,
+    "raw": "No",
+    "cost": 2.26494e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.9818e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.62144e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 5,
+    "raw": "EPISTEMIC",
+    "cost": 6.397e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 4,
+    "raw": "No",
+    "cost": 2.26494e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 6,
+    "raw": "EPISTEMIC",
+    "cost": 6.397e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 5,
+    "raw": "No",
+    "cost": 2.26494e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.9818e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 1.08e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.9818e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 4,
+    "raw": "EPISTEMIC",
+    "cost": 6.397e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 1.08e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 1.08e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 3,
+    "raw": "EPISTEMIC",
+    "cost": 5.32773e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 1,
+    "raw": "EPISTEMIC",
+    "cost": 5.32773e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 1.08e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 1.095e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 1.095e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.9818e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 2,
+    "raw": "EPISTEMIC",
+    "cost": 5.32773e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 1.08e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 1.095e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 1.08e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 1.08e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 1.095e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.38e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 1.095e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.38e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "T",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 1.08e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 7,
+    "raw": "EPISTEMIC",
+    "cost": 5.32773e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 1.095e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 4,
+    "raw": "No",
+    "cost": 1.38e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order2_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 0,
+    "raw": "EPISTEMIC",
+    "cost": 5.32773e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.38e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.38e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 0,
+    "raw": "Yes",
+    "cost": 1.32e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 1.32e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.38e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 1.32e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 1.32e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 1.095e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 1.32e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.38e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "I",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.38e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "F",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 1.095e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 1.32e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 4,
+    "raw": "AMBIGUITY",
+    "cost": 3.21e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 6,
+    "raw": "AMBIGUITY",
+    "cost": 3.21e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 1.32e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 3,
+    "raw": "AMBIGUITY",
+    "cost": 3.21e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 5,
+    "raw": "AMBIGUITY",
+    "cost": 3.21e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 0,
+    "raw": "No",
+    "cost": 2.258e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 4,
+    "raw": "Maybe",
+    "cost": 2.258e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 2.258e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 0,
+    "raw": "AMBIGUITY",
+    "cost": 3.21e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 5,
+    "raw": "Maybe",
+    "cost": 2.258e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "N",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 1.32e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 2,
+    "raw": "AMBIGUITY",
+    "cost": 3.21e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 1,
+    "raw": "AMBIGUITY",
+    "cost": 3.21e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 3,
+    "raw": "No",
+    "cost": 2.29e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.90458e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 2.29e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 0,
+    "raw": "No",
+    "cost": 2.93e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 3,
+    "raw": "No",
+    "cost": 1.90458e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.90458e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 1,
+    "raw": "No",
+    "cost": 1.93032e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 4,
+    "raw": "No",
+    "cost": 2.93e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 5,
+    "raw": "No",
+    "cost": 2.93e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 0,
+    "raw": "No",
+    "cost": 1.93032e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "T",
+    "rep": 7,
+    "raw": "Yes",
+    "cost": 2.258e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order3_design",
+    "model": "openai/gpt-4o-mini",
+    "letter": "U",
+    "rep": 7,
+    "raw": "AMBIGUITY",
+    "cost": 3.21e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 5,
+    "raw": "No",
+    "cost": 1.93032e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 6,
+    "raw": "No",
+    "cost": 1.93032e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 2,
+    "raw": "No",
+    "cost": 1.93032e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 2,
+    "raw": "No",
+    "cost": 2.44512e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 3,
+    "raw": "Yes",
+    "cost": 2.738e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 5,
+    "raw": "Yes",
+    "cost": 2.738e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 1,
+    "raw": "No",
+    "cost": 2.44512e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 6,
+    "raw": "Yes",
+    "cost": 2.738e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "F",
+    "rep": 7,
+    "raw": "No",
+    "cost": 1.93032e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 3,
+    "raw": "No",
+    "cost": 2.44512e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 0,
+    "raw": "No",
+    "cost": 2.29068e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 6,
+    "raw": "No",
+    "cost": 2.44512e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 4,
+    "raw": "Yes",
+    "cost": 2.29068e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 7,
+    "raw": "No",
+    "cost": 2.29068e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 1,
+    "raw": "Yes",
+    "cost": 2.29068e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "N",
+    "rep": 2,
+    "raw": "Yes",
+    "cost": 2.29068e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 0,
+    "raw": "ALEATORY",
+    "cost": 5.53374e-05
+  },
+  {
+    "kind": "tfin",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "I",
+    "rep": 7,
+    "raw": "No",
+    "cost": 2.44512e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 1,
+    "raw": "ALEATORY",
+    "cost": 5.53374e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 5,
+    "raw": "ALEATORY",
+    "cost": 5.53374e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 6,
+    "raw": "ALEATORY",
+    "cost": 5.53374e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 4,
+    "raw": "ALEATORY",
+    "cost": 5.53374e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 3,
+    "raw": "ALEATORY",
+    "cost": 5.53374e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 2,
+    "raw": "ALEATORY",
+    "cost": 5.53374e-05
+  },
+  {
+    "kind": "forced_choice",
+    "item_id": "stack_order3_design",
+    "model": "deepseek/deepseek-chat",
+    "letter": "U",
+    "rep": 7,
+    "raw": "ALEATORY",
+    "cost": 5.53374e-05
+  }
+]

@@ -1,0 +1,48 @@
+
+--- aleatory ---
+  [deepseek/deepseek-chat] T=0.00, F=0.00, I=0.00, N=0.00, U1=1.00, U2=0.80, U3=0.80, U4=0.00, U5=0.40
+    -> sigma_empty(T+F)=0.00  ord=2  witnesses=[('U1', 'U2'), ('U1', 'U3'), ('U1', 'U5'), ('U2', 'U3'), ('U2', 'U5'), ('U3', 'U5')]
+  [openai/gpt-4o-mini] T=0.00, F=NA, I=NA, N=NA, U1=NA, U2=1.00, U3=1.00, U4=0.00, U5=1.00
+    -> sigma_empty(T+F)=0.00  ord=2  witnesses=[('U2', 'U3'), ('U2', 'U5'), ('U3', 'U5')]
+
+--- ambiguous_wording ---
+  [deepseek/deepseek-chat] T=1.00, F=0.00, I=0.40, N=1.00, U1=0.00, U2=0.80, U3=1.00, U4=1.00, U5=0.00
+    -> sigma_empty(T+F)=1.00  ord=1  witnesses=[('I',), ('N',), ('U2',), ('U3',), ('U4',)]
+  [openai/gpt-4o-mini] T=1.00, F=0.00, I=1.00, N=1.00, U1=1.00, U2=1.00, U3=1.00, U4=1.00, U5=1.00
+    -> sigma_empty(T+F)=1.00  ord=1  witnesses=[('I',), ('N',), ('U1',), ('U2',), ('U3',), ('U4',), ('U5',)]
+
+--- epistemic_missing ---
+  [deepseek/deepseek-chat] T=0.00, F=0.00, I=0.00, N=0.00, U1=0.00, U2=0.80, U3=1.00, U4=0.80, U5=0.80
+    -> sigma_empty(T+F)=0.00  ord=2  witnesses=[('U2', 'U3'), ('U2', 'U4'), ('U2', 'U5'), ('U3', 'U4'), ('U3', 'U5'), ('U4', 'U5')]
+  [openai/gpt-4o-mini] T=0.00, F=0.00, I=0.00, N=0.00, U1=1.00, U2=1.00, U3=1.00, U4=0.00, U5=1.00
+    -> sigma_empty(T+F)=0.00  ord=2  witnesses=[('U1', 'U2'), ('U1', 'U3'), ('U1', 'U5'), ('U2', 'U3'), ('U2', 'U5'), ('U3', 'U5')]
+
+--- paradox ---
+  [deepseek/deepseek-chat] T=0.00, F=1.00, I=0.00, N=0.00, U1=0.00, U2=1.00, U3=1.00, U4=0.20, U5=0.00
+    -> sigma_empty(T+F)=1.00  ord=1  witnesses=[('U2',), ('U3',), ('U4',)]
+  [openai/gpt-4o-mini] T=1.00, F=1.00, I=0.00, N=1.00, U1=1.00, U2=1.00, U3=1.00, U4=1.00, U5=1.00
+    -> sigma_empty(T+F)=2.00  ord=0  witnesses=[]
+
+--- unambig_false ---
+  [deepseek/deepseek-chat] T=0.00, F=1.00, I=0.00, N=0.00, U1=0.00, U2=1.00, U3=0.60, U4=0.00, U5=0.00
+    -> sigma_empty(T+F)=1.00  ord=1  witnesses=[('U2',), ('U3',)]
+  [openai/gpt-4o-mini] T=0.00, F=1.00, I=0.00, N=0.00, U1=0.00, U2=1.00, U3=1.00, U4=0.00, U5=0.00
+    -> sigma_empty(T+F)=1.00  ord=1  witnesses=[('U2',), ('U3',)]
+
+--- unambig_true ---
+  [deepseek/deepseek-chat] T=1.00, F=0.00, I=1.00, N=0.60, U1=0.00, U2=0.00, U3=0.60, U4=0.00, U5=0.00
+    -> sigma_empty(T+F)=1.00  ord=1  witnesses=[('I',), ('N',), ('U3',)]
+  [openai/gpt-4o-mini] T=1.00, F=0.00, I=1.00, N=1.00, U1=0.00, U2=0.00, U3=0.00, U4=0.00, U5=0.00
+    -> sigma_empty(T+F)=1.00  ord=1  witnesses=[('I',), ('N',)]
+
+--- unmeasurable_aesthetic ---
+  [deepseek/deepseek-chat] T=0.00, F=0.00, I=0.00, N=0.00, U1=0.00, U2=1.00, U3=1.00, U4=1.00, U5=0.60
+    -> sigma_empty(T+F)=0.00  ord=2  witnesses=[('U2', 'U3'), ('U2', 'U4'), ('U2', 'U5'), ('U3', 'U4'), ('U3', 'U5'), ('U4', 'U5')]
+  [openai/gpt-4o-mini] T=1.00, F=0.00, I=0.00, N=1.00, U1=1.00, U2=1.00, U3=1.00, U4=1.00, U5=1.00
+    -> sigma_empty(T+F)=1.00  ord=1  witnesses=[('N',), ('U1',), ('U2',), ('U3',), ('U4',), ('U5',)]
+
+--- vague_concept ---
+  [deepseek/deepseek-chat] T=0.00, F=0.00, I=0.00, N=0.00, U1=0.60, U2=0.60, U3=1.00, U4=1.00, U5=0.20
+    -> sigma_empty(T+F)=0.00  ord=2  witnesses=[('U1', 'U2'), ('U1', 'U3'), ('U1', 'U4'), ('U2', 'U3'), ('U2', 'U4'), ('U3', 'U4'), ('U3', 'U5'), ('U4', 'U5')]
+  [openai/gpt-4o-mini] T=0.00, F=0.20, I=0.00, N=0.00, U1=0.60, U2=1.00, U3=1.00, U4=1.00, U5=1.00
+    -> sigma_empty(T+F)=0.20  ord=1  witnesses=[('U2',), ('U3',), ('U4',), ('U5',)]

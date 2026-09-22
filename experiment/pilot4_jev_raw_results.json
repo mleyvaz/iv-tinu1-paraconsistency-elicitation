@@ -1,0 +1,162 @@
+[
+  {
+    "id": "unambig_true",
+    "T": 0.97,
+    "F": 0.02,
+    "I": 0.97,
+    "N": 0.04,
+    "U_choice": "none",
+    "U_probabilities": {
+      "aleatory": 0,
+      "measurement": 0.18,
+      "ambiguity": 0.04,
+      "vagueness": 0.01,
+      "none": 0.76,
+      "epistemic": 0.01
+    }
+  },
+  {
+    "id": "unambig_false",
+    "T": 0.01,
+    "F": 0.99,
+    "I": 0.95,
+    "N": 0.03,
+    "U_choice": "none",
+    "U_probabilities": {
+      "ambiguity": 0.01,
+      "aleatory": 0,
+      "measurement": 0.01,
+      "epistemic": 0.01,
+      "vagueness": 0,
+      "none": 0.97
+    }
+  },
+  {
+    "id": "paradox",
+    "T": 0.14,
+    "F": 0.86,
+    "I": 0.21,
+    "N": 0.39,
+    "U_choice": "none",
+    "U_probabilities": {
+      "epistemic": 0.02,
+      "vagueness": 0,
+      "aleatory": 0,
+      "measurement": 0.01,
+      "ambiguity": 0.12,
+      "none": 0.85
+    }
+  },
+  {
+    "id": "aleatory",
+    "T": 0.08,
+    "F": 0.16,
+    "I": 0.18,
+    "N": 0.24,
+    "U_choice": "aleatory",
+    "U_probabilities": {
+      "epistemic": 0.02,
+      "vagueness": 0,
+      "none": 0,
+      "measurement": 0,
+      "aleatory": 0.98,
+      "ambiguity": 0
+    }
+  },
+  {
+    "id": "epistemic_missing",
+    "T": 0.37,
+    "F": 0.51,
+    "I": 0.15,
+    "N": 0.43,
+    "U_choice": "epistemic",
+    "U_probabilities": {
+      "ambiguity": 0.25,
+      "none": 0.01,
+      "epistemic": 0.74,
+      "vagueness": 0,
+      "measurement": 0,
+      "aleatory": 0
+    }
+  },
+  {
+    "id": "ambiguous_wording",
+    "T": 0.79,
+    "F": 0.1,
+    "I": 0.19,
+    "N": 0.46,
+    "U_choice": "vagueness",
+    "U_probabilities": {
+      "ambiguity": 0.03,
+      "vagueness": 0.79,
+      "epistemic": 0.11,
+      "none": 0.04,
+      "measurement": 0.03,
+      "aleatory": 0
+    }
+  },
+  {
+    "id": "vague_concept",
+    "T": 0.07,
+    "F": 0.83,
+    "I": 0.79,
+    "N": 0.18,
+    "U_choice": "vagueness",
+    "U_probabilities": {
+      "measurement": 0,
+      "aleatory": 0,
+      "vagueness": 0.99,
+      "none": 0,
+      "ambiguity": 0,
+      "epistemic": 0.01
+    }
+  },
+  {
+    "id": "unmeasurable_aesthetic",
+    "T": 0.55,
+    "F": 0.32,
+    "I": 0.13,
+    "N": 0.47,
+    "U_choice": "vagueness",
+    "U_probabilities": {
+      "none": 0.01,
+      "aleatory": 0,
+      "ambiguity": 0.01,
+      "measurement": 0.45,
+      "epistemic": 0,
+      "vagueness": 0.53
+    }
+  },
+  {
+    "id": "stack_order2_design",
+    "T": 0.39,
+    "F": 0.43,
+    "I": 0.15,
+    "N": 0.54,
+    "U_choice": "epistemic",
+    "U_probabilities": {
+      "none": 0,
+      "aleatory": 0,
+      "ambiguity": 0.02,
+      "measurement": 0.02,
+      "epistemic": 0.86,
+      "vagueness": 0.1
+    }
+  },
+  {
+    "id": "stack_order3_design",
+    "T": 0.34,
+    "F": 0.4,
+    "I": 0.12,
+    "N": 0.72,
+    "U_choice": "aleatory",
+    "U_probabilities": {
+      "measurement": 0,
+      "epistemic": 0.16,
+      "aleatory": 0.64,
+      "vagueness": 0.02,
+      "none": 0,
+      "ambiguity": 0.18
+    }
+  }
+]
