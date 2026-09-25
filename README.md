@@ -20,3 +20,14 @@ Pilots 1–3 need `OPENROUTER_API_KEY` in the environment and Python 3 (`request
 ## Status
 
 All results here are feasibility-check pilots (n=8–10 items, not the pre-registered n≈100–200 study referenced in the paper). See the paper's §9.5–9.6 for the full discussion and caveats.
+
+## Scoring correction for the I probe (25 Sep 2026)
+
+`analyze_pilot2.py` and `analyze_pilot3.py` scored sup(I) as the share of "Yes" answers to the answerability question ("can the question be answered with a definite yes or no?"). The protocol defines sup(I) as the share of "No". The Jev scripts (`analyze_pilot4.py`, `analyze_pilot5.py`) already used the correct direction (1 − p). The raw data are unchanged.
+
+- `experiment/recompute_fixI.py` recomputes pilots 2 and 3 from the stored raw responses with sup(I) = P("No") and writes `experiment/recompute_fixI_results.json`. It also reports a sensitivity analysis with I left out, because for these two models the answers to the I probe correlate with sup(T) (0.69 in pilot 3).
+- `figures/make_fig_jepr.py` produces `figures/fig_jepr_sigma0.png` (sup T + sup F per item and system, final protocol).
+
+The corrected results are the ones reported in:
+
+Smarandache, F., & Leyva-Vázquez, M. (2027). Conflict or uncertainty? Reading the partial paraconsistency hierarchy of interval (T, I, N, U₁, …, Uₙ, F) tuples from language-model outputs. *Journal of Evidential and Paraconsistent Reasoning*, 2(1). https://doi.org/10.5281/zenodo.22954807
